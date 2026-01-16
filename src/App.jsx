@@ -19,7 +19,7 @@ function App() {
         <section className="pt-32 pb-20 px-6">
           <div className="max-w-5xl mx-auto text-center">
             <h1 className="text-5xl md:text-7xl font-extrabold tracking-tighter mb-6 animate-fade-in">
-              Лучшие перевозки <br /> <span className="text-blue-600">только для вас</span>
+              Учебный, ненастоящий сайт. Лучшие перевозки <br /> <span className="text-blue-600">только для вас</span>
             </h1>
             <p className="text-lg text-slate-500 max-w-2xl mx-auto mb-10">
               Быстрый, надежный и современный транзит. 
